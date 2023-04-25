@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Face_Detection/deepface/deepface"
+    ]
+}
