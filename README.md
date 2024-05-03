@@ -1,7 +1,6 @@
 # NOSTRADAMOVIES (Film Prediction)
-Ce projet est dans le cadre de ma formation à Epitech.
-Il permet par une IA de prédir le genre d'un film grâce à son poster
 Bienvenue dans ce projet réalisé dans le cadre de ma formation à Epitech ! Notre objectif est de développer une IA capable de prédire le genre d'un film à partir de son affiche.
+Voici les concepts utilisés pour mener à bien ce projet :
 
 ## Paragraphe 1 : OCR (Reconnaissance Optique de Caractères)
 Dans ce premier paragraphe, nous avons mis en place un système sophistiqué de reconnaissance optique de caractères (OCR). Cette technologie nous permet d'extraire avec précision les informations textuelles cruciales telles que le titre du film, les noms des acteurs et des réalisateurs à partir des affiches de films.
@@ -16,3 +15,5 @@ La colorimétrie joue un rôle crucial dans notre approche. Dans ce troisième p
 Enfin, dans le quatrième paragraphe, nous utilisons une analyse textuelle pour interpréter les éléments textuels restants sur l'affiche. Cela nous permet de détecter des mots-clés ou des phrases qui peuvent être associés à des genres spécifiques de films, tels que "action", "romance" ou "science-fiction".
 
 Ce projet combine de manière innovante différentes techniques d'intelligence artificielle pour fournir des prédictions de genre de films précises et fiables à partir de leurs affiches.
+
+
