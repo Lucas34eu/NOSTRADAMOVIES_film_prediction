@@ -11,6 +11,8 @@ Dans le deuxième paragraphe, nous avons intégré une fonctionnalité de détec
 ## Paragraphe 3 : Colorimétrie
 La colorimétrie joue un rôle crucial dans notre approche. Dans ce troisième paragraphe, nous examinons les schémas de couleurs utilisés dans l'affiche pour en déduire des informations sur le genre du film. Par exemple, les affiches de films d'horreur peuvent avoir des palettes de couleurs sombres et contrastées, tandis que les comédies peuvent utiliser des couleurs vives et des tons plus légers.
 
+![Nom de l'image]([chemin/vers/votre/image.jpg](https://github.com/dat-epitech/Nostradamovie/blob/main/Colorimetrie/color_analysis_report.png))
+
 ## Paragraphe 4 : Analyse de Texte
 Enfin, dans le quatrième paragraphe, nous utilisons une analyse textuelle pour interpréter les éléments textuels restants sur l'affiche. Cela nous permet de détecter des mots-clés ou des phrases qui peuvent être associés à des genres spécifiques de films, tels que "action", "romance" ou "science-fiction".
 
