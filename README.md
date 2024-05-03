@@ -4,7 +4,7 @@ Voici les concepts utilisés pour mener à bien ce projet :
 
 ## Paragraphe 1 : OCR (Reconnaissance Optique de Caractères)
 Nous avons mis en place un système sophistiqué de reconnaissance optique de caractères (OCR). Cette technologie nous permet d'extraire avec précision les informations textuelles cruciales telles que le titre du film, les noms des acteurs et des réalisateurs à partir des affiches de films.
-![Nom de l'image](text_analyze/working_text_analyse.jpg)
+![Nom de l'image](OCR/imgs/working_text_analyse.jpg)
 
 ## Paragraphe 2 : Face detection (Détection de Visages)
 Dans cette partie de notre projet, nous avons intégré une fonctionnalité de détection faciale avancée. Pour parvenir à identifier les visages des acteurs sur l'affiche, nous nous appuyons sur une base de données de visages connus. Cette base de données contient des informations sur les visages d'acteurs populaires, ce qui nous permet de comparer les visages détectés sur l'affiche avec ceux de la base de données. En reconnaissant les visages des acteurs, nous pouvons ensuite déduire le genre du film en nous basant sur le genre des acteurs impliqués. Par exemple, si les visages reconnus appartiennent principalement à des acteurs connus pour jouer dans des films d'action, il est probable que le film soit également un film d'action. Cette approche nous permet d'exploiter les données sur les acteurs pour prédire le genre du film avec précision.
