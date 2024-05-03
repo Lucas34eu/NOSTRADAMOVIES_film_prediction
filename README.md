@@ -25,4 +25,4 @@ Enfin, dans le quatrième paragraphe, nous utilisons une analyse textuelle pour 
 ## Mise en relation de résultats
 Dans notre projet, chaque étape est conçue pour fournir des informations précieuses qui alimentent un modèle d'intelligence artificielle global. La combinaison des résultats de la reconnaissance optique de caractères (OCR), de la détection faciale, de l'analyse colorimétrique et de l'analyse textuelle crée une vision holistique de l'affiche du film. En fusionnant ces données diverses, notre modèle peut établir des corrélations subtiles entre les éléments textuels, les visages d'acteurs reconnus et les schémas de couleurs, pour prédire avec une grande précision le genre du film. Cette approche intégrée garantit une analyse complète de l'affiche, tirant parti de chaque détail pour fournir des résultats plus fiables et précis.
 
-
+![Nom de l'image](observation_modele_v2.png)
