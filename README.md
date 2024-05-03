@@ -18,7 +18,7 @@ La colorimétrie joue un rôle crucial dans notre approche. Dans ce troisième p
 ![Nom de l'image](Colorimetrie/color_analysis_report.png)
 
 ## Analyse de Texte
-Enfin, dans le quatrième paragraphe, nous utilisons une analyse textuelle pour interpréter les éléments textuels restants sur l'affiche. Cela nous permet de détecter des mots-clés ou des phrases qui peuvent être associés à des genres spécifiques de films, tels que "action", "romance" ou "science-fiction".
+Nous intégrons également une analyse textuelle pour interpréter les éléments textuels restants sur l'affiche. Cette approche nous permet de détecter des mots-clés ou des phrases qui évoquent un sentiment ou une atmosphère spécifique associée à certains genres de films, tels que "action", "romance" ou "science-fiction
 
 ![Nom de l'image](text_analyze/sentiment-result.png)
 
